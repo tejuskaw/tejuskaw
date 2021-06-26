@@ -21,7 +21,10 @@ Here are some ideas to get you started:
 
 ### STATS
 
-![tejus's GitHub stats](https://github-readme-stats.vercel.app/api?username=tejvirus0003&count_private=true)
+![tejus's GitHub stats](https://github-readme-stats.vercel.app/api?username=tejvirus0003&count_private=true&show_icons=true&theme=yeblu)
 
 ### Languages I often work with : 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejvirus0003)](https://github.com/tejvirus0003/github-readme-stats)
+
+### =>stats:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tejvirus0003&repo=github-readme-stats)](https://github.com/tejvirus0003/github-readme-stats)
