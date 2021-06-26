@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 ![Tejus kaw's github stats](https://github-readme-stats.vercel.app/api?username=tejvirus0003)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![tejus's GitHub stats](https://github-readme-stats.vercel.app/api?username=tejvirus0003&count_private=true)
