@@ -13,8 +13,10 @@ Here are some ideas to get you started:
 
 <a href="https://www.linkedin.com/in/tejus-kaw-051a5218b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href="https://github.com/tejvirus0003"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
+<a href="https://www.codechef.com/users/tejvirus0003"><img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.svg"/></a>
 <br>
 <b>tejvirus0003@gmail.com</b>
+
 
 - ⚡ Fun fact: BATHROOM SINGER , COMPETETIVE PROGRAMMING , SPORTS , GYM ...
 
