@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 <a href="https://www.linkedin.com/in/tejus-kaw-051a5218b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href="https://github.com/tejvirus0003"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
-<a href="https://www.codechef.com/users/tejvirus0003"><img src="https://images.yourstory.com/cs/images/companies/codechef-1592821643695.jpg" width="100px" height="50px"/></a>
+<a href="https://www.codechef.com/users/tejvirus0003"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7ip_gNlb19L42SDL5syjPdu_JTjJSrCkAh0LYL4Y5q2YtC9QwYhr7vOq-03_3Dtg6QoQ&usqp=CAU" width="100px" height="50px"/></a>
 <br>
 <b>tejvirus0003@gmail.com</b>
 
