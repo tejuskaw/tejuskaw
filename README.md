@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: BATHROOM SINGER , COMPETETIVE PROGRAMMING , SPORTS , GYM ...
 
 ### Languages and Tools:
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/python.png"/> &nbsp; <img src="https://img.icons8.com/plasticine/48/000000/react.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/html-5.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/css3.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/firebase.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> &nbsp; <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pluralsight.com%2Fpaths%2Fcsharp&psig=AOvVaw2QlyF3Ccgx9xaXmcAIsNYr&ust=1627967490063000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCC8dHJkfICFQAAAAAdAAAAABAD"/> &nbsp;
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/python.png"/> &nbsp; <img src="https://img.icons8.com/plasticine/48/000000/react.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/html-5.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/css3.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/firebase.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> &nbsp;<img src="https://img.icons8.com/color/50/000000/c-sharp-logo.png"/> &nbsp;
 
 ### STATS
 
