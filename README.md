@@ -4,9 +4,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on small projects , learning and doing new tech.
-- 🌱 I’m currently learning JS , FLUTTER , competetive programming
+- 🔭 I’m currently working on small projects on c# , learning and doing new tech.
+- 🌱 I’m currently working with JS , FLUTTER , competetive programming
 - 👯 I’m looking to collaborate on network security , HACKING MADE EASY and projects like combining various technology into one(in future).
+-  <b>  Hoping to get as much experience with tech stuff and be better each day.</b>
 - 🤔 I’m looking for help with network security , competetive programming
 - 💬 Ask me about anything related to tech .
 - 📫 How to reach me: 
