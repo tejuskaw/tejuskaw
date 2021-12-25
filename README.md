@@ -6,6 +6,9 @@
 
 ## Myself TEJUS KAW , CSE - 23 student at PEC , Chandigarh
 
+INTERN AT (SOFTWARE ENGINEER) AMERICAN EXPRESS 
+<img  width="100px" height="50px" src="https://github.com/tejvirus0003/tejvirus0003/blob/main/American-Express-logo.png"/>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on small projects on c# , learning and doing new tech.
